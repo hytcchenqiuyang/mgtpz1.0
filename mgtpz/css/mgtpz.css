@@ -1,0 +1,101 @@
+a{text-decoration:none;}
+
+
+
+
+
+
+
+#header{width:1349px;height:94px;margin-top:24px;border-top:4px solid #FFCC00;box-shadow:0px 4px 6px rgba(0, 0, 0, 0.1);position:relative;z-index:9;}
+#head {width:1160px;height:94px;margin:0px auto;border:1px solid #ccc;}
+#logo{float:left;}
+#headInfo{text-align:right;font:normal 12px Arial, Helvetica, sans-serif;height:20px;line-height:20px;margin:12px 0px;}
+#headInfo a{width:95px;float:right;padding:0px 20px 0px 0px;text-align:right;display:inline-block;color: #333;}
+#headInfo a.headInfoContact{background: url("images/icon.png")left -45px no-repeat;}
+#headInfo a.headInfoJionShop{border-right:1px solid #666;background:url("images/icon.png")left -5px no-repeat;}
+
+#nav{width:900px;float:right;position: relative;z-index: 100;}
+.nav .list li{float: left;}
+.nav .list a{float:left;display:block;width:100px;height:50px;text-align:center;font:normal 12px/50px Arial, Helvetica, sans-serif;color:#333;}
+.nav .list a:hover{color:#FFF;background:#333;}
+.box{position:absolute;left:-260px;top:50px;width:1160px;background:#333;overflow:hidden;height:0;filter:alpha(opacity=0);opacity:0;border-bottom:2px solid #074c52;z-index:10000;}
+.cont {position:relative;padding: 2.5% 0%;z-index: 10000;}
+.clearfix {min-height: 1%;display: block;height: 1%;}
+.navDownLeftBox {width: 65.6%;margin-left: 2.25%;float: left;}
+.navDownTopBox {overflow: hidden;}
+.navDownTopBox li {background:#000;font:normal 18px Arial, Helvetica, sans-serif;color:#FFFFFF;width:31.9%;height:auto;float:left;padding:0px;margin:0px 1.4% 0px 0px;overflow:hidden;}
+
+
+
+
+
+#top{width:1349px;height:585px;}
+#slides li{width:1349px;height:585px;}
+.btn5{width:185px;height:28px;line-height:28px;border:1px solid #FFFFFF;display:block;background:#FFFFFF;color:#333;text-align:center;border-radius:5px;font-weight:bold;letter-spacing:2px;font-size:14px;position:absolute;right:340px;top:440px;}
+.btn5:hover{background:none;color:#333;border:1px solid #333;cursor:pointer;}
+.btn6{position:absolute;left:220px;top:480px; width:185px;height:28px;line-height:28px;border:1px solid #FFCC00;display:block;background:#FFCC00;color:#512f2f;text-align:center;border-radius:5px;font-weight:bold;letter-spacing:2px;font-size:14px;}
+.btn6:hover{background:none;color:#FFCC00;border:1px solid #FFCC00;cursor: pointer;}
+.btn10{position:absolute;left:190px;top:220px;width:185px;height:28px;line-height:28px;border:1px solid #FFF;display:inline-block;background:#FFF;color:#5C3E34;text-align:center;border-radius:5px;font-weight: bold;letter-spacing: 2px;font-size: 14px;margin: 50px 470px 0px 40px;}
+.btn10:hover{background:none;color:#FFF;border:1px solid #5C3E34;background:#5C3E34;cursor:pointer;}
+
+
+
+
+#grey{width:1349px;height:289px;border:1px solid #ccc;}
+
+
+
+#videoPhotoBox{width:1349px;height:427px;background:url("images/videoImage.jpg")center top no-repeat;}
+
+#memberCards{width:1349px;height:426px;background:url("images/cardBg.jpg")left top repeat;}
+
+#dessertCoffee{width:1349px;height:427px;background: url("images/dessertImage.jpg")center top no-repeat;}
+
+#activities{width:1349px;height:426px;background:url("images/paper.jpg")center top no-repeat;}
+
+#flagshipStore{width:1349px;height:200px;background: #5c3e34;overflow:hidden;}
+.flagshipStore {width:1050px;height:70px;margin:0px auto;background:url("images/shopMode.jpg") center top no-repeat;padding:130px 0px 0px 150px;}
+.btn2 {width: 185px;height: 28px;line-height:28px;border:1px solid #ffffff;background:#ffffff;display:block;color:#5C3E34;text-align:center;border-radius:5px;font-weight:bold;letter-spacing:2px;font-size:14px;}
+.btn2:hover {background: #5C3E34;color: #ffffff;cursor: pointer;}
+
+
+#mobileVersion{width:1349px;height:269px;background: #fef7dd;}
+.mobileVersion{width: 500px;height: 89px;background:url("images/webchat.jpg")center top no-repeat;margin:0px auto;padding: 180px 0px 0px 700px;}
+.btn1{width:185px;height: 28px;line-height:28px;border:1px solid #674C3B;background:#674C3B;color:#ffffff;display:block;text-align:center;border-radius:5px;font-weight:bold;letter-spacing:2px;font-size:14px;}
+.btn1:hover{background:none;color:#674C3B;cursor:pointer;}
+
+
+
+
+
+
+#webchatBox{width:1349px;height:230px;border:1px solid #ccc;}
+#emailBox{width:1349px;height:71px;border-top: 1px solid #efefef;}
+.emailBox {width:1200px;margin:0px auto;font:normal 12px/70px Arial, Helvetica, sans-serif;text-align:right;color:#3D3935;}
+.emailBox img {float:right;margin:30px 70px 0px 0px;}
+
+#shipLinks{width:1349px;height:272px;border:1px solid #ccc;}
+#footer{width:1349px;height:35px;border:1px solid #ccc;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
